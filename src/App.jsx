@@ -62,7 +62,7 @@ function App() {
             You don’t know how much I adore you.  
             I may not express everything perfectly,  
             but you are the one girl I love unconditionally.  
-            I saw a reel and got this idea, so I made this for you 😁
+            Thank you for being in my life.
           </p>
         </>
       )}
