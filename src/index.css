@@ -21,6 +21,13 @@ body {
   padding: 20px;
   position: relative;
 }
+h2 {
+  margin-bottom: 10px;   /* reduce space below h2 */
+}
+
+h3 {
+  margin-top: 2px;      /* reduce space above h3 */
+}
 
 /* ======================
    IMAGE

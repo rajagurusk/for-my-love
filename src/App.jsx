@@ -33,8 +33,8 @@ function App() {
       {!yesClicked ? (
         <>
           <img src={myGif} alt="GIF" className="center-image" />
-
-          <h2 className="text">Will u be my valentine?</h2>
+<h2 className="text">Hey Nithiyasri!</h2>
+          <h3 className="text">Will u be my valentine?</h3>
 
           <div className="button-area">
             <button className="btn yes" onClick={handleYesClick}>
